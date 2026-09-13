@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /uk/admin
+Disallow: /ru/admin
+Disallow: /en/admin
+
+Sitemap: https://imhote.github.io/zolotyi-sazan-demo/sitemap.xml
